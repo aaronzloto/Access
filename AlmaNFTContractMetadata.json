@@ -1,8 +1,3 @@
 {
-    "name": "AlmaNFT",
-    "description": "Lorem Ipsum...",
-    "image": "ipfs://bafkreibxaz6lecqggf2rz3u6vxqedezp7zlmnocryszeloc3a5vx3aptem",
-    "external_link": "https://www.almaartstudio.com/gallery/",
-    "seller_fee_basis_points": 1000, 
-    "fee_recipient": "0xeED12d2e742273028f615bdcb635097B3792f89F" 
+    "name": "AlmaNFT"
   }
